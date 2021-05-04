@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab 6 CSE 4095 Final Project</string>
+    <string name="title_insert">Insert and Delete</string>
+    <string name="title_display">Display</string>
+    <string name="stock_name">Stock Name:</string>
+    <string name="already_in_DB">The Stock is already in the Database!</string>
+    <string name="not_in_DB">The Stock is not in the Database!</string>
+    <string name="empty_stock">Please enter the Stock!</string>
+    <string name="ok">OK!</string>
+</resources>
